@@ -1,2 +1,2 @@
 # Template
-Some excellent templates provided.
+Some ppt templates.
